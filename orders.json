@@ -1,0 +1,36 @@
+{
+    "order_queue": [
+        {
+            "order_id": "ORD001",
+            "items_ordered": {
+                "S101": 2,
+                "F501": 1
+            }
+        },
+        {
+            "order_id": "ORD002",
+            "items_ordered": {
+                "L201": 1,
+                "A401": 1
+            }
+        }
+    ],
+    "fulfilled_orders": [
+        {
+            "order_id": "ORD000",
+            "items_ordered": {
+                "S102": 1,
+                "T301": 1
+            }
+        }
+    ],
+    "unfulfilled_orders": [
+        {
+            "order_id": "ORD003",
+            "items_ordered": {
+                "L202": 5,
+                "F501": 20
+            }
+        }
+    ]
+}
