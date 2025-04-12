@@ -1,0 +1,44 @@
+[
+    {
+        "item_id": "S101",
+        "name": "Apple iPhone 13",
+        "quantity": 20,
+        "category": "Smartphones"
+    },
+    {
+        "item_id": "S102",
+        "name": "Samsung Galaxy S22",
+        "quantity": 25,
+        "category": "Smartphones"
+    },
+    {
+        "item_id": "L201",
+        "name": "Dell XPS 13",
+        "quantity": 15,
+        "category": "Laptops"
+    },
+    {
+        "item_id": "L202",
+        "name": "Apple MacBook Air",
+        "quantity": 10,
+        "category": "Laptops"
+    },
+    {
+        "item_id": "T301",
+        "name": "Sony Bravia 55-inch TV",
+        "quantity": 5,
+        "category": "Televisions"
+    },
+    {
+        "item_id": "A401",
+        "name": "LG Refrigerator",
+        "quantity": 7,
+        "category": "Appliances"
+    },
+    {
+        "item_id": "F501",
+        "name": "IKEA Office Desk",
+        "quantity": 12,
+        "category": "Furniture"
+    }
+]
